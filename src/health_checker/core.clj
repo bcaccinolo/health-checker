@@ -1,4 +1,4 @@
-(ns clj-notifier.core
+(ns health-checker.core
   (:use [clojure.java.shell :only [sh]])
   (:require [clojure.tools.cli  :refer [parse-opts]]
             [org.httpkit.client :as http])
