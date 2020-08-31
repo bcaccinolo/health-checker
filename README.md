@@ -3,6 +3,10 @@
 Some lines of code to test if my dev server is up or not.
 If not, it launches a notification with `notify-send`.
 
+## What it looks like?
+
+![](https://github.com/bcaccinolo/health-checker/blob/master/doc/notification.png)
+
 ## Installation
 
 `lein uberjar`
