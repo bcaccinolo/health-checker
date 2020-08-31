@@ -1,4 +1,4 @@
-# clj-notifier
+# health-checker
 
 Some lines of code to test if my dev server is up or not.
 If not, it launches a notification with `notify-send`.
